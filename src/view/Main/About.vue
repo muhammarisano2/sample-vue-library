@@ -1,11 +1,11 @@
 <template>
-<router-view></router-view>
+<h1>ini halaman about</h1>
 </template>
 
 <script>
 
 export default {
-  name: 'App',
+  name: 'About',
 };
 </script>
 
